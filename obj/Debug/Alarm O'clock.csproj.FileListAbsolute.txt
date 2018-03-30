@@ -1,0 +1,12 @@
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\Alarm O'clock.exe.config
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\Alarm O'clock.exe
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\Alarm O'clock.pdb
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.csprojResolveAssemblyReference.cache
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm_O_clock.Form1.resources
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm_O_clock.Properties.Resources.resources
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.csproj.GenerateResource.cache
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.csproj.CoreCompileInputs.cache
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.exe
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.pdb
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.csproj.ResolveComReference.cache
