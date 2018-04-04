@@ -10,3 +10,13 @@ C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock
 C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.pdb
 C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Interop.WMPLib.dll
 C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.csproj.ResolveComReference.cache
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\EntityFramework.dll
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\EntityFramework.xml
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.csproj.CopyComplete
