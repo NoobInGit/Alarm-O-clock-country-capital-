@@ -15,7 +15,7 @@ namespace Alarm_O_clock
 {
     public partial class Form1 : Form
     {
-        private SQLiteConnection ConDB;
+        //public SQLiteConnection ConDB = new SQLiteConnection("Data Source=CapitalDB.db; Version=3");
 
         Timer timer01 = new Timer();
         bool b = false;
@@ -29,11 +29,11 @@ namespace Alarm_O_clock
         //Старт проги
         private void Form1_Load(object sender, EventArgs e)
         {
-            ConDB = new SQLiteConnection("Data Source=CapitalDB.db; Version=3");
-            if (ConDB == null)
-            {
-            }
-            ConDB.Open();
+            //if (ConDB == null)
+            //{
+            //}
+
+            //ConDB.Open();
 
             off.Enabled = false;
             timer01.Interval = 60000;
@@ -88,10 +88,20 @@ namespace Alarm_O_clock
             b = false;
         }
 
+
+        //Открывает Вопрос(Старана-Столица)
         private void button1_Click(object sender, EventArgs e)
         {
-        //    wmp.URL = "D:/Alarm.mp3";
-        //    wmp.controls.play();
+            //    wmp.URL = "D:/Alarm.mp3";
+            //    wmp.controls.play();
+
+            CountryControl newForm = new CountryControl();
+            newForm.Show();
+        }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            //ConDB.Close();
         }
     }
 }

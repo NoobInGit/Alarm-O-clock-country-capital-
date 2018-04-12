@@ -20,3 +20,4 @@ C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\EntityFramewo
 C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\System.Data.SQLite.xml
 C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\bin\Debug\System.Data.SQLite.dll.config
 C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm O'clock.csproj.CopyComplete
+C:\Users\Zialot\source\repos\Alarm O'clock\Alarm O'clock\obj\Debug\Alarm_O_clock.CountryControl.resources
